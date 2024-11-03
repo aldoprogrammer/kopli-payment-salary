@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Kopli Payment Salary application links the Reactive Network with any EVM-compatible chain. Users can request funds from a faucet contract on another chain, with the Reactive Network processing the request via a corresponding contract.
+The Kopli Payment Salary application seamlessly connects the Reactive Network with any EVM-compatible chain, enabling users to easily request funds from a faucet contract on a different blockchain. It’s as simple as sending an email—just a few clicks, and you can access the funds you need across multiple networks. Once the request is processed, **users will receive their funds directly in Reactive Kopli**, allowing them to interact with decentralized applications on the Reactive Network. The Reactive Network handles all the processing behind the scenes, ensuring a smooth and efficient experience. This streamlined process eliminates barriers and significantly enhances accessibility in the world of decentralized finance, making it easier for anyone to engage with blockchain technology.
 
 ## Contracts
 
